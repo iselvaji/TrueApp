@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrueApp</string>
+    <string name="err_unable_to_load">Unable to load the data.</string>
+    <string name="loading">Loading data..</string>
+    <string name="err_connectivity">Network connection is unavailable.</string>
+    <string name="fetch">Get data</string>
+
+    <string name="nth_Char">%dth Character</string>
+    <string name="every_nthChar">Characters at every %dth position</string>
+    <string name="words_count">Words Count</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="dialog_title">Select Web Content Type</string>
+    <string name="option_text_only">Text Content Only</string>
+    <string name="option_html">Including Html Content</string>
+
+    <string name="settings">Settings</string>
+
+</resources>
