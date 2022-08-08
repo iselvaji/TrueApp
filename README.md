@@ -1,16 +1,14 @@
 #Features:
-As part of android technical assignment
+As part of this project
 
-1. Fetch the web content from url and find the 10th character and display it on the screen
-2. Fetch the web content from url and find the every 10th character and display it on the screen
-3. Fetch the web content from url and find the every 10th character and Split the text into words using whitespace characters (i.e. space, tab, line break, etc.), count the occurrence of every unique word
+1. Fetch the web content from url and find the 10th character, every 10th character and display it on the screen
+2. Fetch the web content from url and find the every 10th character and Split the text into words using whitespace characters (i.e. space, tab, line break, etc.), count the occurrence of every unique word
        display the count for each word on the screen
 
-Application should run above 3 requests Simultaneously.
-Url used : https://blog.truecaller.com/2018/01/22/life-as-an-android-engineer/
+Application should run above 3 requests Simultaneously from the given url
 
 # Architecture
-MVVM design pattern with repository and Use cases
+MVI design pattern with repository and Use cases
 Presentation layer -- Domain layer -- Data layer
 
 #Tech stack Details
